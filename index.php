@@ -104,4 +104,3 @@ function addRequest($username, $text, $res_count, $chat_id, $name = '') {
 	}
 }
 
-
