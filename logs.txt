@@ -1,0 +1,30 @@
+stdClass Object
+(
+    [update_id] => 524147754
+    [message] => stdClass Object
+        (
+            [message_id] => 100
+            [from] => stdClass Object
+                (
+                    [id] => 766270179
+                    [is_bot] => 
+                    [first_name] => yar
+                    [last_name] => ko
+                    [username] => yaroslav7522
+                    [language_code] => uk
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 766270179
+                    [first_name] => yar
+                    [last_name] => ko
+                    [username] => yaroslav7522
+                    [type] => private
+                )
+
+            [date] => 1646484347
+            [text] => 3714
+        )
+
+)
